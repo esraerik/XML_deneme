@@ -1,0 +1,16 @@
+c:\users\owner\documents\visual studio 2012\Projects\XML_deneme\XML_deneme\bin\Debug\XML_deneme.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\XML_deneme\XML_deneme\bin\Debug\XML_deneme.exe
+c:\users\owner\documents\visual studio 2012\Projects\XML_deneme\XML_deneme\bin\Debug\XML_deneme.pdb
+c:\users\owner\documents\visual studio 2012\Projects\XML_deneme\XML_deneme\obj\Debug\XML_deneme.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2012\Projects\XML_deneme\XML_deneme\obj\Debug\XML_deneme.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\XML_deneme\XML_deneme\obj\Debug\XML_deneme.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\XML_deneme\XML_deneme\obj\Debug\XML_deneme.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\XML_deneme\XML_deneme\obj\Debug\XML_deneme.exe
+c:\users\owner\documents\visual studio 2012\Projects\XML_deneme\XML_deneme\obj\Debug\XML_deneme.pdb
+C:\Users\ESRAERİK\Documents\Visual Studio 2013\Projects\XML_deneme\XML_deneme\bin\Debug\XML_deneme.exe.config
+C:\Users\ESRAERİK\Documents\Visual Studio 2013\Projects\XML_deneme\XML_deneme\obj\Debug\XML_deneme.exe
+C:\Users\ESRAERİK\Documents\Visual Studio 2013\Projects\XML_deneme\XML_deneme\obj\Debug\XML_deneme.pdb
+C:\Users\ESRAERİK\Documents\Visual Studio 2013\Projects\XML_deneme\XML_deneme\obj\Debug\XML_deneme.csprojResolveAssemblyReference.cache
+C:\Users\ESRAERİK\Documents\Visual Studio 2013\Projects\XML_deneme\XML_deneme\obj\Debug\XML_deneme.Form1.resources
+C:\Users\ESRAERİK\Documents\Visual Studio 2013\Projects\XML_deneme\XML_deneme\obj\Debug\XML_deneme.Properties.Resources.resources
+C:\Users\ESRAERİK\Documents\Visual Studio 2013\Projects\XML_deneme\XML_deneme\obj\Debug\XML_deneme.csproj.GenerateResource.Cache
